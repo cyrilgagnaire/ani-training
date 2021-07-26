@@ -1,23 +1,25 @@
-# ani-training
+# Training AnI Team on GitHub
 
-training repo for the Analytics and Insights Team
+## Description:
 
-Proposed topics:
+A repository to train the AnI Team on how to use GitHub and source control
+
+## Proposed topics:
+
 - How to clone repositories
 - how to create a branch
 - how to create a Pull Request
 
-Checking who has access:
+## Who has confirmed access:
 
 - Cyril: Y
 - Jon: Y
 - Steph: Y
-- Dan N U
-- Daniel M U
-- Joel U
-- Andal U
-- Sally U
-- Renee U
-- Rachelle U
-- Andrew U
-
+- Dan N: U
+- Daniel M: U
+- Joel: U
+- Andal: U
+- Sally: U
+- Renee: U
+- Rachelle: U
+- Andrew: U
