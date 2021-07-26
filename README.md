@@ -2,6 +2,11 @@
 
 training repo for the Analytics and Insights Team
 
+Proposed topics:
+- How to clone repositories
+- how to create a branch
+- how to create a Pull Request
+
 Checking who has access:
 
 - Cyril: Y
@@ -15,3 +20,4 @@ Checking who has access:
 - Renee U
 - Rachelle U
 - Andrew U
+
