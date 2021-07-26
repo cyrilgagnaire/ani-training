@@ -23,3 +23,8 @@ A repository to train the AnI Team on how to use GitHub and source control
 - Renee: U
 - Rachelle: U
 - Andrew: U
+
+## Repository Policies
+
+- Pull Requests are mandatory with at least 1 approver
+- All comments on a PR must be resolved before merge
