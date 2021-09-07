@@ -1,0 +1,15 @@
+This file will help with tracking progress throughout our session. 
+
+Change 'N" to 'Y' through a PR as you are making progress
+
+Name        | Finished Training?
+
+Cyril       | N
+Rachelle    | N
+Jon         | N
+Sally       | N
+Andal       | N
+Joel        | N
+Daniel      | N
+Steph       | N
+Andrew      | N
