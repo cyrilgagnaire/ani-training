@@ -2,14 +2,14 @@ This file will help with tracking progress throughout our session.
 
 Change 'N" to 'Y' through a PR as you are making progress
 
-Name        | Finished Training?
-
-Cyril       | N
-Rachelle    | N
-Jon         | N
-Sally       | N
-Andal       | N
-Joel        | N
-Daniel      | N
-Steph       | N
-Andrew      | N
+Name        | Approver  | Finished Training?
+---------------------------------------------
+Cyril       | Rachelle  | N
+Rachelle    | Jon       | N
+Jon         | Sally     | N
+Sally       | Andal     | N
+Andal       | Joel      | N
+Joel        | Daniel    | N
+Daniel      | Steph     | N
+Steph       | Andrew    | N
+Andrew      | Cyril     | N
