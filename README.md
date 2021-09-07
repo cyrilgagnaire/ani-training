@@ -12,19 +12,7 @@ A repository to train the AnI Team on how to use GitHub and source control
 
 ## Link to instructions
 
-## Who has confirmed access
-
-- Cyril: Y
-- Jon: Y
-- Steph:
-- Dan N:
-- Daniel M:
-- Joel:
-- Andal:
-- Sally:
-- Renee: Y
-- Rachelle:
-- Andrew:
+Follow instructions [here](https://rac-wa.atlassian.net/wiki/spaces/GD/pages/2544599282/Getting+familiar+with+GitHub+and+PRs)
 
 ## Repository Policies
 
